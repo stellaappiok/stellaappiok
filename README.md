@@ -22,7 +22,6 @@ I also have growing experience with:
 - **Robotics** &nbsp; `Autonomous Systems` · `Mechanical Design` · `Control`
 - **IoT** &nbsp; `Smart Devices` · `Sensor Integration` · `Connected Systems`
 - **AI / ML** &nbsp; `Computer Vision` · `Data Processing` · `Pattern Recognition`
-- **Tools** &nbsp; `Git` · `GitHub` · `VS Code` · `Jupyter`
   
 ---
 
