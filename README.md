@@ -1,11 +1,5 @@
 # Hi, I'm Stella 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=appiokstella&color=1A3A5C&style=flat)
-
-</div>
-
-## About Me
-
 I'm a Mechatronics Engineering student passionate about building intelligent
 systems that bridge hardware and software. My interests sit at the intersection
 of **Robotics, AI**, and the technologies shaping the future of engineering.
@@ -106,3 +100,6 @@ creating technology that solves problems.
 ###  Building at the Intersection of Hardware & Intelligence
 
 </div> 
+
+![Profile Views](https://komarev.com/ghpvc/?username=appiokstella&color=1A3A5C&style=flat)
+
