@@ -45,10 +45,9 @@ grow as an engineer is to learn in public and give back to the communities that 
 ## 📈 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=appiokstella&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=F0C674"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=appiokstella&theme=github-dark-blue&hide_border=true"/> <br><br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=appiokstella&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=F0C674&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=appiokstella&theme=github-dark-blue&hide_border=true" />
 </div>
-
 
 ## 📁Recent Repos
 
