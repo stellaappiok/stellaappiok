@@ -4,10 +4,6 @@ I'm a Mechatronics Engineering student passionate about building intelligent
 systems that bridge hardware and software. My interests sit at the intersection
 of **Robotics,ML, AI**and the technologies shaping the future of engineering.
 
-I learn by building through combining programming, electronics, and data to solve
-real problems. Every project I push is a step toward becoming the kind of
-engineer who builds things that matter.
-
 I also passionate about contributing to open source projects because I believe the best way to
 grow as an engineer is to learn in public and give back to the communities that teach you.
 
@@ -54,7 +50,7 @@ grow as an engineer is to learn in public and give back to the communities that 
 
 ## 📁Recent Repos
 
-**[21 Python Projects](https://github.com/appiokstella/python-mastery-journey)** — A collection of 21 Python projects from beginner to advanced, 
+**[21 Python Projects](https://github.com/stellaappiok/21-Projects-For-Python-Mastery)** — A collection of 21 Python projects from beginner to advanced, 
 documented daily with what I learned from each one.
 
 
