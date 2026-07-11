@@ -8,9 +8,9 @@ I also passionate about contributing to open source projects because I believe t
 grow as an engineer is to learn in public and give back to the communities that teach you.
 
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 🐍 Programming & Data Science
+###  Programming & Data Science
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp; `Fundamentals` · `Scripting` · `Automation`
 
@@ -26,7 +26,7 @@ grow as an engineer is to learn in public and give back to the communities that 
 <div align="center">
 <span>
 
-**🛠️ Tools**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**⚡ Hardware**
+**Tools**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hardware**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -38,7 +38,7 @@ grow as an engineer is to learn in public and give back to the communities that 
 </div>
 
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img
@@ -48,7 +48,7 @@ grow as an engineer is to learn in public and give back to the communities that 
   />
 </div>
 
-## 📁Recent Repos
+## Recent Repos
 
 **[21 Python Projects](https://github.com/stellaappiok/21-Projects-For-Python-Mastery)** — A collection of 21 Python projects from beginner to advanced, 
 documented daily with what I learned from each one.
@@ -59,14 +59,14 @@ documented daily with what I learned from each one.
 ---
 
 
-## 🔬 Areas of Interest
+##  Areas of Interest
 
-- 🤖 **Robotics** — Autonomous systems, sensing, and control
-- 🧠 **AI** — Intelligent software and automation
-- 📊 **Machine Learning** — Data-driven insights and prediction
+-  **Robotics** — Autonomous systems, sensing, and control
+-  **AI** — Intelligent software and automation
+-  **Machine Learning** — Data-driven insights and prediction
 
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Learning Machine Learning and Data Science
 - Exploring Robotics with Arduino & ESP32
@@ -74,7 +74,7 @@ documented daily with what I learned from each one.
 - Contributing to open source projects
 
 
-## 🌟 My Philosophy
+##  My Philosophy
 
 I believe the most impactful technology happens where software, hardware, and human
 need intersect. I want to be the kind of engineer who doesn't just understand
@@ -84,7 +84,7 @@ I'm building toward a future in robotics and AI, with a long-term vision of
 creating technology that solves problems.
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
