@@ -53,6 +53,8 @@ grow as an engineer is to learn in public and give back to the communities that 
 **[21 Python Projects](https://github.com/stellaappiok/21-Projects-For-Python-Mastery)** — A collection of 21 Python projects from beginner to advanced, 
 documented daily with what I learned from each one.
 
+**[PyMotionLab](https://github.com/stellaappiok/pymotionlab)** — A lightweight Python library for robot arm kinematics, simulation, and visualization for forward/inverse kinematics, trajectory generation, and 3D animation, built to be readable end-to-end.
+
 
 
 
