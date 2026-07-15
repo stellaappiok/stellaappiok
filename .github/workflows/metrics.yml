@@ -17,17 +17,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_STATS_TOKEN }}
           user: stellaappiok
-          template: classic
-          # This controls the side-by-side layout
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, plugin_languages
-          
-          # Base statistics
+          template: repository
+          # This pulls in the Stats (left side)
           base: header, activity, community, repositories, metadata
           
-          # Languages plugin
+          # This enables the Languages panel (right side)
           plugin_languages: yes
+          plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_languages_limit: 10
           
-          # Force the side-by-side layout
+          # This puts them side-by-side
+          config_padding: 0, 8 + 11%
           config_display: columns
