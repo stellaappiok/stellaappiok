@@ -40,13 +40,7 @@ grow as an engineer is to learn in public and give back to the communities that 
 
 ##  GitHub Stats
 
-<div align="center">
-
-<!-- <img width="49%" src="./github-metrics.svg"/> -->
-
-<img width="49%" src="./github-metrics-languages.svg"/>
-
-</div>
+![Metrics](github-metrics.svg)
 
 ## Recent Repos
 
