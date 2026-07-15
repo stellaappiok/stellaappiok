@@ -37,10 +37,9 @@ grow as an engineer is to learn in public and give back to the communities that 
 </span>
 </div>
 
+## Github Activities
 
-##  GitHub Stats
-
-![Metrics](github-metrics.svg)
+![overview](https://github.com/stellaappiok/stellaappiok/blob/main/generated/overview.svg#gh-dark-mode-only) ![language](https://github.com/stellaappiok/stellaappiok/blob/main/generated/languages.svg#gh-dark-mode-only)
 
 ## Recent Repos
 
