@@ -5,7 +5,6 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# Add this block to allow the action to save files
 permissions:
   contents: write
 
@@ -13,25 +12,16 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Languages Stats
+      - name: Full Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-languages.svg
           token: ${{ secrets.METRICS_STATS_TOKEN }}
           user: stellaappiok
-          base: "" 
           template: classic
+          # This base configuration builds the "Statistics" panel
+          base: header, activity, community, repositories, metadata
+          # This adds the "Languages" panel inside the same image
           plugin_languages: yes
-          plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 10
-
-      - name: Generate Base Stats
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-stats.svg
-          token: ${{ secrets.METRICS_STATS_TOKEN }}
-          user: stellaappiok
-          template: classic
-          base: header, activity, community, repositories, metadata
           plugin_lines: yes
