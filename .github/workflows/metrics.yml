@@ -13,8 +13,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-languages.svg
-          token: ${{ secrets.METRICS_STATS_TOKEN }} # Updated token name here
-          user: YOUR_USERNAME_HERE
+          token: ${{ secrets.METRICS_STATS_TOKEN }}
+          user: stellaappiok
           base: "" 
           template: classic
           plugin_languages: yes
@@ -26,8 +26,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-stats.svg
-          token: ${{ secrets.METRICS_STATS_TOKEN }} # Updated token name here
-          user: YOUR_USERNAME_HERE
+          token: ${{ secrets.METRICS_STATS_TOKEN }}
+          user: stellaappiok
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
