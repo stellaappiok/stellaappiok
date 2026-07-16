@@ -244,22 +244,6 @@ query {{
 }}
 """
 
-    @staticmethod
-    def pull_requests() -> str:
-        """
-        :return: GraphQL query to get the total number of pull requests the
-                 user has created, across all states (open, closed, merged)
-        """
-        return """
-query {
-  viewer {
-    pullRequests(first: 1) {
-      totalCount
-    }
-  }
-}
-"""
-
 
 class Stats(object):
     """
@@ -289,7 +273,6 @@ class Stats(object):
         self._repos: Optional[Set[str]] = None
         self._lines_changed: Optional[Tuple[int, int]] = None
         self._views: Optional[int] = None
-        self._pull_requests: Optional[int] = None
 
     async def to_str(self) -> str:
         """
@@ -303,7 +286,6 @@ class Stats(object):
         return f"""Name: {await self.name}
 Stargazers: {await self.stargazers:,}
 Forks: {await self.forks:,}
-Pull requests: {await self.pull_requests:,}
 All-time contributions: {await self.total_contributions:,}
 Repositories with contributions: {len(await self.repos)}
 Lines of code added: {lines_changed[0]:,}
@@ -537,24 +519,6 @@ Languages:
 
         self._views = total
         return total
-
-    @property
-    async def pull_requests(self) -> int:
-        """
-        :return: total number of pull requests the user has created, across
-                 all states (open, closed, merged)
-        """
-        if self._pull_requests is not None:
-            return self._pull_requests
-
-        result = await self.queries.query(Queries.pull_requests())
-        self._pull_requests = (
-            result.get("data", {})
-            .get("viewer", {})
-            .get("pullRequests", {})
-            .get("totalCount", 0)
-        )
-        return cast(int, self._pull_requests)
 
 
 ###############################################################################
