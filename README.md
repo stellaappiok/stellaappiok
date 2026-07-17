@@ -53,11 +53,6 @@ creating technology that solves problems.
 
 </div>
 
-<div align="center">
-
-###  Building at the Intersection of Hardware & Intelligence
-
-</div> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=appiokstella&color=1A3A5C&style=flat)
 
