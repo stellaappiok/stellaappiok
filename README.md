@@ -34,15 +34,6 @@ grow as an engineer is to learn in public and give back to the communities that 
 -  **AI** — Intelligent software and automation
 -  **Machine Learning** — Data-driven insights and prediction
 
-
-##  Current Focus
-
-- Learning Machine Learning and Data Science
-- Exploring Robotics with Arduino & ESP32
-- Developing projects that combine hardware and software
-- Contributing to open source projects
-
-
 ##  My Philosophy
 
 I believe the most impactful technology happens where software, hardware, and human
