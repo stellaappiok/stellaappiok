@@ -2,7 +2,7 @@
 
 I'm a Mechatronics Engineering student passionate about building intelligent
 systems that bridge hardware and software. My interests sit at the intersection
-of **Robotics, ML, AI , Robotics** and the technologies shaping the future of engineering.
+of ** ML, AI , Robotics** and the technologies shaping the future of engineering.
 
 I also passionate about contributing to open source projects because I believe the best way to
 grow as an engineer is to learn in public and give back to the communities that teach you.
