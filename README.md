@@ -26,24 +26,6 @@ grow as an engineer is to learn in public and give back to the communities that 
 
 ![overview](https://github.com/stellaappiok/stellaappiok/blob/main/generated/overview.svg#gh-dark-mode-only) ![language](https://github.com/stellaappiok/stellaappiok/blob/main/generated/languages.svg#gh-dark-mode-only)
 
----
-
-
-##  Areas of Interest
--  **AI** — Intelligent software and automation
--  **Machine Learning** — Data-driven insights and prediction
--  **Robotics** — Autonomous systems, sensing, and control
-
-
-##  My Philosophy
-
-I believe the most impactful technology happens where software, hardware, and human
-need intersect. I want to be the kind of engineer who doesn't just understand
-technology but builds things that create real value for real people.
-
-I'm building toward a future in robotics and AI, with a long-term vision of
-creating technology that solves problems.
-
 
 ##  Connect With Me
 
