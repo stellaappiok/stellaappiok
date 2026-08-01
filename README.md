@@ -32,7 +32,6 @@ grow as an engineer is to learn in public and give back to the communities that 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appiokstella@gmail.com)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/appiokstella)
 
 </div>
 
