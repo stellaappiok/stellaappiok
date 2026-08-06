@@ -22,7 +22,7 @@ grow as an engineer is to learn in public and give back to the communities that 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
-## Github Activities
+## GitHub Activities
 
 ![overview](https://github.com/stellaappiok/stellaappiok/blob/main/generated/overview.svg#gh-dark-mode-only) ![language](https://github.com/stellaappiok/stellaappiok/blob/main/generated/languages.svg#gh-dark-mode-only)
 
@@ -32,6 +32,7 @@ grow as an engineer is to learn in public and give back to the communities that 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appiokstella@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stellaappiok/)
 
 </div>
 
