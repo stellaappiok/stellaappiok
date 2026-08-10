@@ -36,6 +36,3 @@ grow as an engineer is to learn in public and give back to the communities that 
 
 </div>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=appiokstella&color=1A3A5C&style=flat)
-
